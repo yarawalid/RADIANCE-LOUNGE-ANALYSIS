@@ -10,7 +10,7 @@ The dashboard provides interactive insights about revenue, customers, booking st
 
 ## 📊 Dashboard Preview
 
-![Radiance Lounge Dashboard](Images/dashboard.png)
+![Radiance Lounge Dashboard](image.png)
 
 ---
 
